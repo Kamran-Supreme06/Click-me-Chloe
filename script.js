@@ -46,13 +46,14 @@ yesBtn.addEventListener("click", () => {
 
       <img src="teddy.gif" alt="Teddy Bear Love" style="width:180px;">
 
-      <h1>YAYYY 💖🎉</h1>
-      <h2>You just made me the happiest girl in the world 😌</h2>
-      <h2>I can't wait to spend Valentine’s Day with you my love 💕</h2>
+      <h1>YAYYY 🎉</h1>
+      <h2>You just made me the happiest guy in the world 😌</h2>
+      <h2>I can't wait to spend Valentine’s Day with you 💕</h2>
 
     </div>
   `;
 });
+
 
 
 
